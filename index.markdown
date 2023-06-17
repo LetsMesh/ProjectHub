@@ -1,7 +1,12 @@
 ---
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
+description: >-
+  The priority of this project is to allow students the opportunity to practice 
+  professionalism and real development work with mentors already in the industry.
+  It will provide the opportunity to learn various technical concepts such as 
+  web development, cloud, UI/UX, Databases, Integration Testing, Mobile, etc as well 
+  as some industry development organization such as Agile, Code Reviews, Version Control, etc.
 layout: default
 ---
 
