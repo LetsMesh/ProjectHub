@@ -55,8 +55,8 @@ Let's Mesh together and create a valuable learning experience in software engine
 
 #### Sprint 1 Demo
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VRIcBfEa_JE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="415" src="https://www.youtube.com/embed/VRIcBfEa_JE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 #### Sprint 2 Demo
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6e-3u5NWU-o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="415" src="https://www.youtube.com/embed/6e-3u5NWU-o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
