@@ -1,7 +1,7 @@
 ---
 ---
 
-@import '{{ site.theme }}';
+@import "{{ site.theme }}";
 
 .page-header {
   background-image: linear-gradient(120deg, #000, #159957);
@@ -10,4 +10,5 @@
 .project-tagline {
   width: 55%;
   margin: auto;
+  padding: 1em;
 }
